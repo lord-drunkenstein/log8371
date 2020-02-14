@@ -11,4 +11,4 @@ git clone https://github.com/github username/elasticsearch.git
 
 ## 3. connectez-vous à travis-ci.org/ avec votre compte github.
 
-![picture](img/abc.png)
+![travis-ci.org](travis.png)
