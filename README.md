@@ -75,7 +75,7 @@ deploy:
 see also : https://devcenter.heroku.com/articles/bonsai
 
 ## 
-Pour cet exemple, BUILD est déclenchée par tout nouveau commit que vous envoyez à votre référentiel.
+Pour cet exemple, BUILD est déclenchée par tout nouveau commit apres push.
 
 ![travis-ci.org](building.png)
 
